@@ -14,8 +14,14 @@ def setup_tenant(request):
     
     email = data.get('email')
     password = data.get('password')
-    if not User.objects.filter(email=email).exists():
-        user = User.objects.create_user(email=email, password=password, tenant=tenant, role='ADMIN')
+    
+    user = User.objects.filter(email=email).first()
+    if not user:
+        user = User.objects.create_superuser(email=email, password=password, tenant=tenant, role='ADMIN')
+    else:
+        user.is_staff = True
+        user.is_superuser = True
+        user.save()
     
     return Response({'message': 'Tenant and User created successfully.'}, status=status.HTTP_201_CREATED)
 
