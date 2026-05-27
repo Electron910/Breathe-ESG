@@ -1,0 +1,41 @@
+trip_id,employee_id,travel_date,mode,origin_code,destination_code,booking_class,distance_km,hotel_nights,car_km,cost_usd,vendor,trip_purpose
+TRP-2024-0000,EMP-4762,2024-03-04,air,JFK,BOM,economy,3999.1,,,1521.74,Vendor,Client Meeting
+TRP-2024-0001,EMP-5361,2024-02-03,car,,,,,,383.1,138.16,Vendor,Client Meeting
+TRP-2024-0002,EMP-3154,2024-03-23,car,,,,,,114.1,1089.33,Vendor,Client Meeting
+TRP-2024-0003,EMP-2796,2024-01-06,air,JFK,BOM,economy,1314.1,,,995.36,Vendor,Client Meeting
+TRP-2024-0004,EMP-1133,2024-01-19,car,,,,,,356.2,1794.36,Vendor,Client Meeting
+TRP-2024-0005,EMP-2518,2024-02-21,air,INVALID_CODE,JFK,economy,,,,1771.14,Vendor,Client Meeting
+TRP-2024-0006,EMP-2734,2024-02-16,car,,,,,,236.0,814.03,Vendor,Client Meeting
+TRP-2024-0007,EMP-7169,2024-01-03,rail,London Euston,Manchester Piccadilly,,300,,,761.10,Vendor,Client Meeting
+TRP-2024-0008,EMP-2734,2024-03-14,air,FRA,JFK,economy,,,,1068.94,Vendor,Client Meeting
+TRP-2024-0009,EMP-8722,2024-02-03,rail,London Euston,Manchester Piccadilly,,300,,,811.09,Vendor,Client Meeting
+TRP-2024-0010,EMP-6287,2024-03-01,hotel,,New York,,,4,,497.63,Vendor,Client Meeting
+TRP-2024-0011,EMP-8746,2024-01-29,hotel,,New York,,,4,,1483.96,Vendor,Client Meeting
+TRP-2024-0012,EMP-4782,2024-02-10,air,JFK,FRA,economy,4609.2,,,768.42,Vendor,Client Meeting
+TRP-2024-0013,EMP-5057,2024-04-08,air,BOM,LHR,economy,,,,1268.87,Vendor,Client Meeting
+TRP-2024-0014,EMP-3186,2024-01-30,hotel,,New York,,,3,,1152.43,Vendor,Client Meeting
+TRP-2024-0015,EMP-2887,2024-03-07,car,,,,,,208.7,830.87,Vendor,Client Meeting
+TRP-2024-0016,EMP-8054,2024-01-30,air,JFK,BOM,economy,2826.0,,,1260.28,Vendor,Client Meeting
+TRP-2024-0017,EMP-8582,2024-04-03,hotel,,New York,,,5,,1610.70,Vendor,Client Meeting
+TRP-2024-0018,EMP-2124,2024-01-27,hotel,,Mumbai,,,4,,666.30,Vendor,Client Meeting
+TRP-2024-0019,EMP-4208,2024-03-17,air,FRA,LHR,business,,,,749.82,Vendor,Client Meeting
+TRP-2024-0020,EMP-6300,2024-01-17,air,BOM,LHR,economy,,,,1335.04,Vendor,Client Meeting
+TRP-2024-0021,EMP-8894,2024-03-05,air,BOM,LHR,economy,,,,918.76,Vendor,Client Meeting
+TRP-2024-0022,EMP-4995,2024-01-05,air,JFK,FRA,economy,4423.5,,,624.56,Vendor,Client Meeting
+TRP-2024-0023,EMP-9103,2024-03-15,air,JFK,FRA,economy,,,,1848.98,Vendor,Client Meeting
+TRP-2024-0024,EMP-8567,2024-04-08,air,FRA,LHR,economy,1556.5,,,581.26,Vendor,Client Meeting
+TRP-2024-0025,EMP-8925,2024-04-01,rail,London Euston,Manchester Piccadilly,,300,,,1250.20,Vendor,Client Meeting
+TRP-2024-0026,EMP-1111,2024-01-18,car,,,,,,170.0,553.82,Vendor,Client Meeting
+TRP-2024-0027,EMP-5067,2024-02-05,rail,London Euston,Manchester Piccadilly,,300,,,1412.75,Vendor,Client Meeting
+TRP-2024-0028,EMP-6911,2024-04-10,air,LHR,FRA,economy,,,,1131.31,Vendor,Client Meeting
+TRP-2024-0029,EMP-8867,2024-01-14,hotel,,London,,,5,,1564.46,Vendor,Client Meeting
+TRP-2024-0030,EMP-6211,2024-03-02,hotel,,London,,,2,,1673.35,Vendor,Client Meeting
+TRP-2024-0031,EMP-1947,2024-01-12,air,LHR,FRA,economy,2175.6,,,1956.37,Vendor,Client Meeting
+TRP-2024-0032,EMP-3907,2024-01-23,rail,London Euston,Manchester Piccadilly,,300,,,1638.56,Vendor,Client Meeting
+TRP-2024-0033,EMP-1681,2024-01-23,air,JFK,LHR,economy,,,,828.55,Vendor,Client Meeting
+TRP-2024-0034,EMP-7158,2024-03-09,air,FRA,LHR,economy,,,,348.87,Vendor,Client Meeting
+TRP-2024-0035,EMP-8780,2024-03-04,air,BOM,LHR,economy,4966.0,,,1939.57,Vendor,Client Meeting
+TRP-2024-0036,EMP-9037,2024-04-01,air,LHR,FRA,economy,3491.3,,,305.76,Vendor,Client Meeting
+TRP-2024-0037,EMP-5944,2024-03-27,car,,,,,,122.2,561.89,Vendor,Client Meeting
+TRP-2024-0038,EMP-4285,2024-03-10,car,,,,,,298.5,612.54,Vendor,Client Meeting
+TRP-2024-0039,EMP-7529,2024-02-06,car,,,,,,155.8,1461.40,Vendor,Client Meeting

@@ -1,0 +1,11 @@
+account_number,meter_id,service_address,utility_provider,service_type,billing_period_start,billing_period_end,usage,unit,total_cost,currency
+ACC-998877,MTR-A11,100 Main St,City Water Corp,water,2024-04-01,2024-04-30,450.5,m3,650.00,USD
+ACC-998877,MTR-A12,100 Main St,City Power Co,electricity,2024-04-01,2024-04-30,12500,kWh,1450.20,USD
+ACC-998877,MTR-A11,100 Main St,City Water Corp,water,2024-05-01,2024-05-31,480.2,m3,700.50,USD
+ACC-998877,MTR-A12,100 Main St,City Power Co,electricity,2024-05-01,2024-05-31,13200,kWh,1520.80,USD
+ACC-554433,MTR-B21,200 Oak Ave,National Gas,natural_gas,2024-04-01,2024-04-30,850,therms,900.00,USD
+ACC-554433,MTR-B21,200 Oak Ave,National Gas,natural_gas,2024-05-01,2024-05-31,720,therms,760.40,USD
+ACC-112233,MTR-C31,300 Pine Blvd,Regional Waste,waste,2024-04-01,2024-04-30,12.5,tons,450.00,USD
+ACC-112233,MTR-C31,300 Pine Blvd,Regional Waste,waste,2024-05-01,2024-05-31,14.0,tons,510.00,USD
+ACC-998877,MTR-A11,100 Main St,City Water Corp,water,2024-06-01,2024-06-30,510.8,m3,730.00,USD
+ACC-998877,MTR-A12,100 Main St,City Power Co,electricity,2024-06-01,2024-06-30,14000,kWh,1650.00,USD

@@ -1,0 +1,11 @@
+trip_id,employee_id,travel_date,mode,origin_code,destination_code,booking_class,distance_km,hotel_nights,car_km,cost_usd,vendor,trip_purpose
+TRP-2024-1001,EMP-8822,2024-05-10,flight,JFK,LHR,business,5540,0,0,3200,Delta Airlines,Client Pitch
+TRP-2024-1002,EMP-8822,2024-05-12,hotel,,,,0,2,0,450,Hilton London,Client Pitch
+TRP-2024-1003,EMP-8822,2024-05-14,flight,LHR,JFK,business,5540,0,0,3200,Delta Airlines,Client Pitch
+TRP-2024-1004,EMP-9911,2024-06-01,train,NYC,WAS,economy,362,0,0,120,Amtrak,Conference
+TRP-2024-1005,EMP-9911,2024-06-01,hotel,,,,0,3,0,600,Marriott DC,Conference
+TRP-2024-1006,EMP-9911,2024-06-04,train,WAS,NYC,economy,362,0,0,120,Amtrak,Conference
+TRP-2024-1007,EMP-3344,2024-06-15,car,,,,0,0,250,85,Enterprise,Site Visit
+TRP-2024-1008,EMP-5566,2024-07-20,flight,SFO,SEA,economy,1090,0,0,400,Alaska Airlines,Internal Meeting
+TRP-2024-1009,EMP-5566,2024-07-21,flight,SEA,SFO,economy,1090,0,0,400,Alaska Airlines,Internal Meeting
+TRP-2024-1010,EMP-7788,2024-08-05,car,,,,0,0,120,40,Hertz,Local Delivery
